@@ -1,1 +1,1 @@
-# module-6
+daily weather tracker using api. Deployed link:https://theyenman.github.io/module-6/<img width="1440" alt="wd" src="https://github.com/TheYenMan/module-6/assets/142276720/b7a20bc1-29cf-4415-8509-8d1260ab5deb">
